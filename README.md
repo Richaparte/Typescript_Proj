@@ -1,16 +1,17 @@
 # Typescript_Proj
  
-install necessary modules
+install necessary modules<br/>
 
-install parcel bundler: 
- npm install -g parcel-bundler
+install parcel bundler: <br/>
+npm install -g parcel-bundler
 
-install faker: 
- npm install faker
+install faker: <br/>
+npm install faker
 
-include type definition files for npm modules:
- npm install @types/faker
+include type definition files for npm modules:<br/>
+npm install @types/faker<br/>
+npm install @types/googlemaps<br/>
  
 
-run code using:
- parcel index.html
+run code using:<br/>
+parcel index.html
