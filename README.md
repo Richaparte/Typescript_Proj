@@ -9,7 +9,8 @@ install faker:
  npm install faker
 
 include type definition files for npm modules:
- npm install @types/faker
+				npm install @types/faker
+				npm install @types/googlemaps
  
 
 run code using:
