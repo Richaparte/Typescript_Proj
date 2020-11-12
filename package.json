@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Richaparte/Typescript_Proj#readme",
   "dependencies": {
-    "axios": "^0.21.0"
+    "@types/faker": "^5.1.4",
+    "axios": "^0.21.0",
+    "faker": "^5.1.0"
   },
   "devDependencies": {
     "typescript": "^4.0.5"
