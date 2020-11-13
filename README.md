@@ -1,5 +1,7 @@
 # Typescript_Proj
- 
+
+Basic Typescipt Application to randomly generate user and company names and their locations and point that locations on google maps using Maps API<br/><br/>
+
 install necessary modules<br/>
 
 install parcel bundler: <br/>
